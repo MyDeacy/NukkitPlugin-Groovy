@@ -1,2 +1,2 @@
 # NukkitPlugin-Groovy
-groooooooooooooooooovy
+Nukkit plugin - Groovy
